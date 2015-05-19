@@ -7,6 +7,8 @@ To start the app,
 
 pm2 start index.js -i 4
 
+then hit the URL http://localhost:8000
+
 
 #### Notes
 
